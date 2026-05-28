@@ -1,0 +1,6 @@
+{
+  "name": "Daily Task Reminder",
+  "description": "A clean, minimal Daily Task Reminder app built with Kotlin, Compose, Room, and AlarmManager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
